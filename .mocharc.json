@@ -1,0 +1,7 @@
+{
+    "extensions": ["js"],
+    "spec": "**/*.spec.js",
+    "node-option": [
+        "experimental-specifier-resolution=node"
+      ]
+}
